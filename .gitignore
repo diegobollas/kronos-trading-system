@@ -1,0 +1,8 @@
+﻿.env
+kronos_env/
+data/raw/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+experiments/
+*.egg-info/
