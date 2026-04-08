@@ -1,0 +1,17 @@
+{
+  "version": "KRONOS v2.0",
+  "horizonte_objetivo": 20,
+  "regimenes_activos": [
+    1,
+    2
+  ],
+  "thresholds": {
+    "0": null,
+    "1": 0.65,
+    "2": 0.6
+  },
+  "sharpe_esperado": 0.633,
+  "dias_activo_pct": 21.4,
+  "benchmark_naive": 0.382,
+  "hallazgo_clave": "Operar solo en regimenes Normal y Turbulento supera el benchmark"
+}
